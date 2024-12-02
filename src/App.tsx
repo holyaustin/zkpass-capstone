@@ -27,7 +27,7 @@ const contractAddress = "0xe23Cd7cA92004cC0dCf55858910AA3609c42C6A5";
 const App = () => {
 	let chainParams: Proof;
 	const [appId, setAppId] = useState<string>(
-		"ad5259b0-aa02-4c83-8f72-a9a61f",
+		"ad5259b0-aa02-4c83-8f72-a9a61f17f761",
 	);
 	const [schemaId, setSchemaId] = useState<string>(
 		"36b2fa1116fd43aa9222813d082b54fd",
